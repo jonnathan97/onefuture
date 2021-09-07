@@ -1,0 +1,57 @@
+.navbar-brand span {
+    font-family: 'Fugaz One', cursive;
+    font-size: 1.5rem;
+}
+
+.img-text {
+    font-family: 'Fugaz One', cursive;
+}
+
+.nav-item .nav-link {
+    font-family: 'Archivo', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.img-one {
+    background-image: url('assets/img/img1.jpg');
+    height: 86vh;
+    background-size: cover;
+    background-position: left bottom;
+}
+
+.img-two {
+    background-image: url('assets/img/img2.jpg');
+    height: 86vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.img-three {
+    background-image: url('assets/img/img3.jpg');
+    height: 86vh;
+    background-size: cover;
+    background-position: center bottom;
+}
+
+.bg-principal {
+    background: #02AAB0;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00CDAC, #02AAB0);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00CDAC, #02AAB0);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.text-principal {
+    color: #02AAB0;
+}
+
+.text-secundario {
+    color: #00CDAC;
+}
+
+.map {
+    height: 25rem;
+    max-width: 100%;
+}
